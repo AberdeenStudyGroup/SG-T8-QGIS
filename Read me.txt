@@ -1,0 +1,11 @@
+The precipitation data is from the WorldClim v1.4 database:
+http://www.worldclim.org/
+It the total precipitation in January in mm (interpolations of observed data, representative of 1960-1990).
+
+
+The data points are some point I am using on my current research (http://www.alicialedo.com/current-research/)
+with no information apart from the coordinates
+
+any question, please contact me: alicialedo@gmail.com
+
+
